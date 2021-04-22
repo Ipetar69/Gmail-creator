@@ -6,7 +6,7 @@
 
 
 <h3>About</h3>
-<ul> It will generate random credentials for a new Gmail account. It autostarts Firefox and is autodirected, you don't have to do anything other than run the script. We dont add phone verification, email us if you have some ideas about the project and and its shortcomings. </ul>
+<ul> It will generate random credentials for a new Gmail account. It autostarts Firefox and is autodirected, you don't have to do anything other than run the script. Script is tested on Kali Linux 2021.1. Script dont have phone verification, email us if you have some ideas about the project and and its shortcomings. </ul>
 
 <h3>What you might need and how to run the script</h3>
 <ul>
